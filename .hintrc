@@ -1,0 +1,10 @@
+{
+  "extends": [
+    "development"
+  ],
+  "hints": {
+    "compat-api/html": "off",
+    "manifest-file-extension": "off",
+    "compat-api/css": "off"
+  }
+}
